@@ -1,4 +1,4 @@
-# Shimmer
+# Shimmer-haha
 Shimmer is an easy way to add a shimmering effect to any view in your app. It's useful as an unobtrusive loading indicator.
 
 Shimmer was originally developed to show loading status in [Paper](http://facebook.com/paper).
